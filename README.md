@@ -1,4 +1,4 @@
-# IMD Data of Mumbai & Titanic Prediction Model
+# ML Practice Projects
 
 ## Overview
 
